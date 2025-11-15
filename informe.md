@@ -62,18 +62,23 @@ Documentación oficial de Nginx.
 ## 8. Procedimiento
 
 Paso 1: Crea una carpeta para el proyecto y dentro los ficheros: mi-wordpress
+
 ![alt text](<Captura de pantalla 2025-11-15 082818.png>)
+
 Paso 2: docker-compose.yml (WordPress + MySQL + phpMyAdmin)
+
 ![alt text](<Captura de pantalla 2025-11-15 083018.png>)
 
 Paso 3:Crear .env sugerido
 
 ![alt text](image.png)
+
 Paso 4:comandos para levantar todo
 
 ![alt text](<Captura de pantalla 2025-11-15 083422.png>)
 
 Paso 5:Gestión de volúmenes y red
+
  ![alt text](<Captura de pantalla 2025-11-15 084657.png>)
 
 
