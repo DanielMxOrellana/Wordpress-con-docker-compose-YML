@@ -84,7 +84,19 @@ Paso 5:Gestión de volúmenes y red
 
 ## 9. Resultados esperados:
     
-Al finalizar la práctica, el estudiante deberá visualizar correctamente la página web servida por el contenedor haber modificado y aplicado configuraciones personalizadas, y haber validado la comunicación entre host y contenedor mediante el navegador. Se espera contar con capturas de pantalla del navegador mostrando la página de bienvenida de Nginx, así como evidencias de los comandos ejecutados.
+Al finalizar la práctica, el estudiante deberá visualizar correctamente el entorno WordPress levantado mediante Docker, confirmando que los servicios WordPress, MySQL y phpMyAdmin se encuentran funcionando. Se espera que el estudiante pueda acceder a:
+
+La instalación inicial de WordPress en http://localhost:8080.
+
+La interfaz de phpMyAdmin en http://localhost:8081.
+
+Verificar que los contenedores están ejecutándose mediante comandos como docker ps.
+
+Validar que los volúmenes fueron creados y asociados correctamente.
+
+Comprobar la comunicación entre los servicios definidos en docker-compose.yml.
+
+Asimismo, se requieren capturas de pantalla del navegador mostrando la instalación de WordPress, la interfaz de phpMyAdmin y la ejecución correcta de los comandos utilizados.
 
 ## 10. Bibliografía
     
